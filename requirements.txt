@@ -9,3 +9,5 @@ qiskit
 qiskit-aer
 matplotlib
 pylatexenc
+qiskit_machine_learning
+qiskit_algorithms
