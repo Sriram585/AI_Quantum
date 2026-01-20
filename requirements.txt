@@ -6,3 +6,6 @@ torch
 torchvision
 opencv-python
 qiskit
+qiskit-aer
+matplotlib
+pylatexenc
